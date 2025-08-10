@@ -67,8 +67,3 @@ Customer_Segmentation_RFM/
 
 ---
 
-
-
-
-
-## 📂 Folder Structure
